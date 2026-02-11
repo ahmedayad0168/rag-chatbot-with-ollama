@@ -89,4 +89,4 @@ python rag_with_ollama.py
 This project is open-source and available for educational purposes.
 
 ```
-
+pip install -r requirements.txt
