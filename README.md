@@ -68,12 +68,6 @@ python DataBase.py
 
 ### 2. Run the Agent
 
-```bash
-python populate_database.py
-python DataBase.py
-
-```
-
 You can start the agent in your preferred mode:
 
 **Desktop GUI:**
