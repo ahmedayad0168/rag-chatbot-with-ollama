@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-ollama
+sentence-transformers
+faiss-cpu
+transformers
+torch
+pyodbc
+pypdf
+numpy
