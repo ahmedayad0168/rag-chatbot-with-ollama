@@ -194,13 +194,3 @@ DROP, ALTER, TRUNCATE, EXEC, EXECUTE, CREATE
 
 `UPDATE` and `DELETE` statements are also blocked unless they include a `WHERE` clause.
 
-## LinkedIn Visuals
-
-Generated shareable graphics are available in `docs/linkedin/`:
-
-- `linkedin-rag-architecture.png`
-- `linkedin-old-vs-new-database-flow.png`
-- `linkedin-project-update-card.png`
-- `linkedin-post.md`
-
-Use them to explain the project architecture, the database pipeline upgrade, and the overall project update in a LinkedIn post.
